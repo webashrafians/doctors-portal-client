@@ -25,6 +25,5 @@
 <li>MongoDB</li>
 <li>Heroku</li>
 </ul>
-<p><strong><a href="https://github.com/mozumderTushar/doctors-portal-v.1-server-master.git">BACK END REPOSITORY</a></strong></p>
 </article>
       </div>
